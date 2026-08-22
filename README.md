@@ -1,5 +1,5 @@
-# Mundo Encantado Avaré — Site
+# Pendencias
 
-Site institucional (landing page) da Mundo Encantado Avaré — locação de itens para festas e eventos.
-
-Locação e montagem personalizada de festas há 18 anos em Avaré/SP.
+1- Imagens na assets
+2- Icon no final
+3 - Nome Marca dagua
